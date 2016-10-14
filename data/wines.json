@@ -1,0 +1,617 @@
+[
+  {
+    "id": 1,
+    "winemaker_id": 1,
+    "region_id": 1,
+    "grape_ids": [ 2 ],
+    "name": "Gewurztraminer Collection 2014",
+    "description": "30g zbytkového cukru, velké sudy, sbírají mírně přezrálé hrozny, které mají potlačit opulentní projev odrůdy. &euro;9.1",
+    "pairing": "Vynikající s Munster. Dá se i s chimichuri steak, Gruyere, quiche lorraine.",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-11",
+        "notes": "Čistý kořenitý projev odrůdy, vyzrálé. Chutná více podchlazené, evokuje styl Mosely.",
+        "rating": 90
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "winemaker_id": 1,
+    "region_id": 1,
+    "grape_ids": [ 1 ],
+    "name": "Pinot Gris Collection 2014",
+    "description": "15g zbytkového cukru, velké sudy. &euro;9.1",
+    "pairing": "Vynikající s Munster. Dá se i s Gruyere, quiche lorraine.",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-11",
+        "notes": "Kouřové na nose i v chuti. Krásná mineralita a čistý projev odrůdy. Zakulacené.",
+        "rating": 89
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "winemaker_id": 2,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Dr. L. Riesling Dry 2015",
+    "description": "Základka, suché, nerez, nakupované hrozny sbírané brzy. 225,- Kč",
+    "pairing": "Pečená ryba s bylinkami a citronem.",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-20",
+        "notes": "Kouřová mineralita na nose, výrazně minerální a suché (až překyselené), jednoduché, tenké s citrusovou linkou. Vhodné k jídlu.",
+        "rating": 85
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "winemaker_id": 3,
+    "region_id": 3,
+    "grape_ids": [ 4 ],
+    "name": "Puligny-Montrachet 1er Cru 'Clos le Cailleret' 2012",
+    "description": "Parcela přímo sousedí s GC Montrachet, ale více kamenitá. 13-14 měsíců v 350 litrových sudech (třetina nová, třetina rok stará, třetina 2 roky stará). Poté 3-4 měsíce zcelení v tanku. 2136 Kč / 2513 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-27",
+        "notes": "TODO",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "winemaker_id": 4,
+    "region_id": 3,
+    "grape_ids": [ 4 ],
+    "name": "Puligny Montrachet AOC 'Les Charmes' 2012",
+    "description": "947 Kč / 1114 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-27",
+        "notes": "TODO",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "winemaker_id": 4,
+    "region_id": 3,
+    "grape_ids": [ 4 ],
+    "name": "Puligny Montrachet 1er Cru 'Les Perrieres' 2012",
+    "description": "1255 Kč / 1477 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-27",
+        "notes": "TODO",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "winemaker_id": 4,
+    "region_id": 3,
+    "grape_ids": [ 4 ],
+    "name": "Puligny Montrachet 1er Cru 'Les Folatieres' 2012",
+    "description": "1255 Kč / 1477 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-27",
+        "notes": "TODO",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "winemaker_id": 5,
+    "region_id": 3,
+    "grape_ids": [ 4 ],
+    "name": "Chassagne-Montrachet 2014",
+    "description": "864 Kč / 1016 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-27",
+        "notes": "TODO",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "winemaker_id": 5,
+    "region_id": 3,
+    "grape_ids": [ 4 ],
+    "name": "Chassagne-Montrachet 1er Cru 'Les Chenevottes' 2014",
+    "description": "1255 Kč / 1477 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-27",
+        "notes": "TODO",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "winemaker_id": 5,
+    "region_id": 3,
+    "grape_ids": [ 4 ],
+    "name": "Chassagne-Montrachet 1er Cru 'Morgeot' 2014",
+    "description": "1255 Kč / 1477 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-27",
+        "notes": "TODO",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "winemaker_id": 5,
+    "region_id": 3,
+    "grape_ids": [ 4 ],
+    "name": "Chassagne-Montrachet 1er Cru 'Les Chaumees' 2014",
+    "description": "1255 Kč / 1477 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-27",
+        "notes": "TODO",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "winemaker_id": 6,
+    "region_id": 3,
+    "grape_ids": [ 4 ],
+    "name": "Meursault 2014",
+    "description": "1059 Kč / 1246 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-27",
+        "notes": "TODO",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "winemaker_id": 6,
+    "region_id": 3,
+    "grape_ids": [ 4 ],
+    "name": "Meursault 'Clos du Cromin' 2014",
+    "description": "1182 Kč / 1390 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-27",
+        "notes": "TODO",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "winemaker_id": 7,
+    "region_id": 3,
+    "grape_ids": [ 4 ],
+    "name": "Meursault Blanc 'Les Buissons Certaut' AOC 2014",
+    "description": "775 Kč / 912 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-27",
+        "notes": "TODO",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "winemaker_id": 7,
+    "region_id": 3,
+    "grape_ids": [ 4 ],
+    "name": "Meursault Blanc 'Les Vireuils' AOC 2014",
+    "description": "775 Kč / 912 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-09-27",
+        "notes": "TODO",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "winemaker_id": 8,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Erdener Treppchen Kabinett 2015",
+    "description": "Spontánní kvašení, hrozny sbírané brzy. 300 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-??-??",
+        "notes": "TODO",
+        "rating": 87
+      }, {
+        "id": 2,
+        "date": "2016-10-02",
+        "notes": "Na nose kouřová mineralita, citrusy. Začíná se prosazovat typická mineralita a kamenitost Erdener Treppchen, vysoká kyselina převažuje nad zbytkovým cukrem. Středně plné.",
+        "rating": 90
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "winemaker_id": 13,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Riesling Sekt Brut 2014",
+    "description": "490 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-04",
+        "notes": "Plnější, jemně oříškové. Slušná persistence.",
+        "rating": 89
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "winemaker_id": 10,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Riesling Trocken 2014",
+    "description": "280 Kč, 2.2g cukru. 90b PWT 2016",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-04",
+        "notes": "Tenké, krátké.",
+        "rating": 84
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "winemaker_id": 10,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Piesporter Goldtropfchen Reisling Trocken GG 2014",
+    "description": "690 Kč, spontánní kvašení, potenciál 2020-2030",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-04",
+        "notes": "Na nose ananas. Koncentrované, vyzrálé, plnější. Na nose se otevírá broskev, meruňka, dotek hořčinky. Moc pěkné.",
+        "rating": "90 (91+)"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "winemaker_id": 12,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Mineralschiefer Riesling Trocken 2014",
+    "description": "290 Kč, spontánní kvašení, 90b PWT 2016",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-04",
+        "notes": "Na nose výrazná kamenitost citrusy. Otevírají se meruňky, žlutý angrešt. Příjemné, ale jednoduché.",
+        "rating": "87+ (88)"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "winemaker_id": 12,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Riesling 'L' Trocken Alte Reben 2013",
+    "description": "470 Kč, 91b PWT 2016",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-04",
+        "notes": "Na nose žlutý angrešt. Tenčí, kamenité, dotek hořčiny, kyselé.",
+        "rating": "87- (87)"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "winemaker_id": 9,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Riesling Trocken 2013",
+    "description": "280 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-04",
+        "notes": "Bez struktury. Jen kyselina, nic víc, vyloženě překyselené.",
+        "rating": 83
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "winemaker_id": 9,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Riesling Kabinett Trocken 2013",
+    "description": "320 Kč, 91b PWT 2016, potenciál 2020+",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-04",
+        "notes": "Na nose terciální tóny, červený grep nebo červený pomeranč. Otevírá se angrešt, typický Lieser. Výrazná kyselina a mineralita.",
+        "rating": "87 (89)"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "winemaker_id": 11,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Riesling Trocken 2014",
+    "description": "350 Kč, 89b PWT 2016, 8g cukr / 8g kyseliny",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-04",
+        "notes": "Na nose žluté ovoce. Chybí kyselina, tenké, bez struktury.",
+        "rating": 84
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "winemaker_id": 11,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Brauneberger Riesling 'J' Trocken 2014",
+    "description": "390 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-04",
+        "notes": "Na nose mineralita. Přímočaře ovocné.",
+        "rating": 87
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "winemaker_id": 11,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Brauneberger Juffer Riesling Kabinett 2004",
+    "description": "550 Kč, 60g cukru",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-04",
+        "notes": "Hezky nazrálé v chuti i na nose, svěží. Krásné.",
+        "rating": 91
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "winemaker_id": 9,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Lieser Niederberg Helden Riesling Spatlese 2004",
+    "description": "490 Kč, 70g cukru",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-04",
+        "notes": "Na nose žluté ovoce, broskev, vyzrálost hroznů. Elegantní, lehoučké. Až máslové.",
+        "rating": 93
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "winemaker_id": 12,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Trittenheimer Apotheke Riesling Spatlese Trocken Alte Reben 2005",
+    "description": "690 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-04",
+        "notes": "Špatná skladba vín, po sladkém Spatlese absolutně nehodnotitelné."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "winemaker_id": 14,
+    "region_id": 6,
+    "grape_ids": [ 6, 7, 1 ],
+    "name": "Cuvée Kuks Brut 2014",
+    "description": "455 Kč, tradiční kvašení v lahvi, 0g cukr / 8g kyseliny, sbíráno při 14 stupních, 50% PN, 25% PB, 25% PG",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-12",
+        "notes": "Příjemně ovocné. Korektní, ale neurazí ani nenadchne.",
+        "rating": 85
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "winemaker_id": 14,
+    "region_id": 6,
+    "grape_ids": [ 8 ],
+    "name": "Cabernet blanc 2015 pozdní sběr",
+    "description": "190 Kč, trať U Všech svatých, 3g cukr / 6g kyseliny",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-12",
+        "notes": "Na nose meruňky. Plnější, pikantní. Otevírá se do ovoce.",
+        "rating": "87+"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "winemaker_id": 14,
+    "region_id": 6,
+    "grape_ids": [ 9 ],
+    "name": "Hibernal 2015 pozdní sběr",
+    "description": "10g cukr / 5g kyseliny",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-12",
+        "notes": "Flat, bez kyseliny, nezaujalo",
+        "rating": 83
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "winemaker_id": 14,
+    "region_id": 6,
+    "grape_ids": [ 10 ],
+    "name": "Tramín kořenný 2015 pozdní sběr",
+    "description": "190 kč, trať na příčce, skvělé párování s glazovanou karotkou",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-12",
+        "notes": "Na nose lehce kořenité. Uhlazené, chybí kyselina.",
+        "rating": 85
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "winemaker_id": 14,
+    "region_id": 6,
+    "grape_ids": [ 3 ],
+    "name": "Ryzlink rýnský 2015 pozdní sběr",
+    "description": "trať U Všech svatých, 15g cukr / 6g kyseliny, skvělé párování s glazovanou karotkou",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-12",
+        "notes": "Slušná persistence",
+        "rating": "87+"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "winemaker_id": 14,
+    "region_id": 6,
+    "grape_ids": [ 11 ],
+    "name": "Jakubské rosé 2015 jakostní",
+    "description": "180kč, trať u Borku, pupenová mutace PN, dozrává o 2-3 týdny dříve, božská kombinace s uzenou jehněcí klobásou",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-12",
+        "notes": "Vyvážené",
+        "rating": 87
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "winemaker_id": 14,
+    "region_id": 6,
+    "grape_ids": [ 1 ],
+    "name": "Pinot gris 2015 oranžové",
+    "description": "260 Kč, 4 měsíce macerace na slupkách v kádích, nesířené, nefiltrované, malolaktika, potenciál 2018+",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-12",
+        "notes": "Lehké tříslo, koncentrace. V chuti pomeranč a grep. Krásné.",
+        "rating": 90
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "winemaker_id": 14,
+    "region_id": 6,
+    "grape_ids": [ 6 ],
+    "name": "Pinot noir 2015 pozdní sběr",
+    "description": "nefiltrované, 4 měsíce macerace na slupkách v kádích, bude lahvováno 03/2017, potenciál 2018+",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-12",
+        "notes": "Na nose nádherně ovocné. V chuti zemité, pikantní, ještě trošku syrové.",
+        "rating": "87 (89)"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "winemaker_id": 14,
+    "region_id": 6,
+    "grape_ids": [ 6 ],
+    "name": "Pinot noir 2015 kabinetní Staré keře",
+    "description": "nefiltrované, trať U Všech svatých, 4 měsíce macerace na slupkách v kádích, bude lahvováno 03/2017, potenciál 2020+",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-12",
+        "notes": "Na nose zemité. V chuti tříslo, slušná struktura. Trošku nižší extrakt.",
+        "rating": "88 (90)"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "winemaker_id": 14,
+    "region_id": 6,
+    "grape_ids": [ 12 ],
+    "name": "Cabernet cortis 2015 výběr z hroznů",
+    "description": "265 Kč, sbíráno při 28 stupních - výběr s bobulí, potenciál 2018+",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-12",
+        "notes": "Na nose se otevírá do červeného ovoce. Vyšší třísloviny, mohutné díky vyššímu dobře zakomponovanému alkoholu, peprné, až jižansky vyzrálé.",
+        "rating": "87 (88)"
+      }
+    ]
+  }
+]

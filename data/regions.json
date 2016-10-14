@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "country_id": 1,
+    "name": "Alsace"
+  },
+  {
+    "id": 2,
+    "country_id": 2,
+    "name": "Mosel"
+  },
+  {
+    "id": 3,
+    "country_id": 1,
+    "name": "Burgundy"
+  },
+  {
+    "id": 4,
+    "country_id": 3,
+    "name": "Piemonte"
+  },
+  {
+    "id": 5,
+    "country_id": 4,
+    "name": "Wachau"
+  },
+  {
+    "id": 6,
+    "country_id": 5,
+    "name": "Čechy"
+  }
+]

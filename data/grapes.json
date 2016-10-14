@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "name": "Pinot Gris",
+    "url": "http://winefolly.com/review/whats-the-difference-between-pinot-gris-and-pinot-grigio/"
+  },
+  {
+    "id": 2,
+    "name": "Gewurztraminer",
+    "url": "http://winefolly.com/review/gewurztraminer-wine-guide/"
+  },
+  {
+    "id": 3,
+    "name": "Riesling",
+    "url": "http://winefolly.com/review/the-tasters-guide-to-riesling-wine/"
+  },
+  {
+    "id": 4,
+    "name": "Chardonnay",
+    "url": "http://winefolly.com/review/chardonnay-wine-guide/"
+  },
+  {
+    "id": 5,
+    "name": "Sauvignon Blanc",
+    "url": "http://winefolly.com/review/sauvignon-blanc-wine-taste-food-pairing/"
+  },
+  {
+    "id": 6,
+    "name": "Pinot Noir"
+  },
+  {
+    "id": 7,
+    "name": "Pinot Blanc"
+  },
+  {
+    "id": 8,
+    "name": "Cabernet Blanc"
+  },
+  {
+    "id": 9,
+    "name": "Hibernal"
+  },
+  {
+    "id": 10,
+    "name": "Tramín kořenný"
+  },
+  {
+    "id": 11,
+    "name": "Jakubské"
+  },
+  {
+    "id": 12,
+    "name": "Cabernet Cortis"
+  }
+]

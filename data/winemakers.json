@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "Scheidecker & Fils",
+    "description": "90% BIO, ale bez certifikace. Od 2016 nové nerezové tanky.",
+    "email": "vins.scheidecker@orange.fr",
+    "address": "Rue des Merles 13, Mittelwihr, France"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Loosen",
+    "description": "Kupované hrozny lahvuje jako Dr. L. Propagátor suchý minerálních vín.",
+    "address": "St. Johannishof, Bernkastel-Kues, Germany"
+  },
+  {
+    "id": 3,
+    "name": "Domaine de la Pousse d'Or",
+    "description": "17ha. Organické hospodaření bez certifikace. Gravitační sklep. Dělají malolaktiku.",
+    "address": "Rue de la Chapelle, Volnay, France",
+    "email": "patrick@lapoussedor.fr",
+    "url": "http://en.lapoussedor.fr/"
+  },
+  {
+    "id": 4,
+    "name": "Domaine Jean-Louis Chavy",
+    "description": "7 ha, vinice 20 - 40 let, menší zásah sudů",
+    "address": "31 Rue de Mazeray, Mersault, France"
+  },
+  {
+    "id": 5,
+    "name": "Domaine Jouard"
+  },
+  {
+    "id": 6,
+    "name": "Domaine Bohrmann"
+  },
+  {
+    "id": 7,
+    "name": "Domaine Millot Bernard"
+  },
+  {
+    "id": 8,
+    "name": "Karl Erbes",
+    "description": "5 ha, vinice Urziger Wurzgarten a Erdener Treppchen. Erdener Pralat v pronájmu. Spíše klasický přístup, ale zkouší spontánní kvašení či delší ležení na kalech."
+  },
+  {
+    "id": 9,
+    "name": "Schloss Lieser",
+    "description": "12.5 ha, vinice Lieser Niederberg Helden (30 let), Brauneberger Juffer, Brauneberger Juffer Sonnenuhr (20-25 let). Od 1992 vede Thomas Haag, od 1997 vlastník. 100% nerez, spontánní kvašení."
+  },
+  {
+    "id": 10,
+    "name": "Reinhold Haart",
+    "description": "7.5 ha, vinice Piesporter Goldtröpfchen (jíl, blue slate, 20 let), Piesporter Grafenberg (jíl, stones, red slate, 15 let), Wintricher Ohligsberg (blue slate, kamenitá, 40 let). 10% dřevo, sbírá později, spontánní kvašení."
+  },
+  {
+    "id": 11,
+    "name": "Fritz Haag",
+    "description": "17.5 ha, vinice Brauneberger Juffer-Sonnenuhr. Od 2005 Oliver Haag. Spontánní kvašení, staré sudy a nerez."
+  },
+  {
+    "id": 12,
+    "name": "Grans Fassian",
+    "description": "10 ha, vinice Dhroner Hofberg, Leiwener Laurentiuslay (grey slate, až 50 let), Trittenheimer Apotheke (blue slate, broskev), Piesporter Goldtröpfchen (blue slate, mineral, acid). Od 1982 Gerhard Grans."
+  },
+  {
+    "id": 13,
+    "name": "Weingut Reichsrat von Buhl",
+    "description": "TOP sekty v Německu."
+  },
+  {
+    "id": 14,
+    "name": "Vinné sklepy Kutná Hora",
+    "description": "1. certifikace Demeter v ČR."
+  }
+]
