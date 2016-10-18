@@ -613,5 +613,53 @@
         "rating": "87 (88)"
       }
     ]
+  },
+  {
+    "id": 39,
+    "winemaker_id": 15,
+    "region_id": 7,
+    "grape_ids": [ 13, 14 ],
+    "name": "Marsala Fine Vino Liquoroso",
+    "description": "40g cukru",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-??-??",
+        "notes": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "winemaker_id": 15,
+    "region_id": 7,
+    "grape_ids": [ 13, 14 ],
+    "name": "Marsala Superiore Ambra Secco",
+    "description": "18% alkoholu, 4 roky velké sudy ze slavonského dubu, 30g cukru, řízené kvašení zastavené vinným destilátem",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-??-??",
+        "notes": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "winemaker_id": 15,
+    "region_id": 7,
+    "grape_ids": [  ],
+    "name": "Marsala Superiore Ambra Dolce",
+    "description": "100g cukru, 18% alkoholu, 6 let velké sudy ze slavonského dubu, řízené kvašení zastavené vinným destilátem",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-??-??",
+        "notes": "",
+        "rating": 0
+      }
+    ]
   }
 ]

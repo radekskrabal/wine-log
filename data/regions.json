@@ -28,5 +28,10 @@
     "id": 6,
     "country_id": 5,
     "name": "Čechy"
+  },
+  {
+    "id": 7,
+    "country_id": 3,
+    "name": "Sicily"
   }
 ]
