@@ -857,7 +857,7 @@
       }, {
         "id": 2,
         "date": "2016-11-16",
-        "notes": "V kuchi typická ovocnost kořenitost Ürziger Würzgarten. Postrádá silnější kyselinu, bez většího potenciálu.",
+        "notes": "V chuti typická ovocnost a kořenitost Ürziger Würzgarten. Postrádá výraznější oporu v podobě kyselinky, bez většího potenciálu.",
         "rating": 89
       }
     ]
@@ -972,13 +972,29 @@
     "winemaker_id": 34,
     "region_id": 11,
     "grape_ids": [ 19, 20 ],
-    "name": "Ch. Branaire Ducru 1986, 4eme Cru Classe, St. Julien",
+    "name": "Château Branaire Ducru 1986, 4eme Cru Classe, St. Julien",
     "tastings": [
       {
         "id": 1,
         "date": "2016-11-16",
         "notes": "",
         "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "winemaker_id": 8,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Ürziger Würzgarten Kabinett 2014",
+    "description": "&euro;6",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-11-06",
+        "notes": "Na nose citrusová linka. V chuti už poměrně srovnaté, jednoduché, přímočaré, méně strukturované.",
+        "rating": 88
       }
     ]
   }
