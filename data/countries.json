@@ -18,5 +18,17 @@
   {
     "id": 5,
     "name": "Česká republika"
+  },
+  {
+    "id": 6,
+    "name": "Spain"
+  },
+  {
+    "id": 7,
+    "name": "Slovensko"
+  },
+  {
+    "id": 8,
+    "name": "Australia"
   }
 ]

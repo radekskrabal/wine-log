@@ -59,5 +59,61 @@
   {
     "id": 14,
     "name": "Catarratto"
+  },
+  {
+    "id": 15,
+    "name": "Viura"
+  },
+  {
+    "id": 16,
+    "name": "Svatovavřinecké"
+  },
+  {
+    "id": 17,
+    "name": "Nebbiolo"
+  },
+  {
+    "id": 18,
+    "name": "Sangiovese"
+  },
+  {
+    "id": 19,
+    "name": "Cabernet Sauvignon"
+  },
+  {
+    "id": 20,
+    "name": "Merlot"
+  },
+  {
+    "id": 21,
+    "name": "Cabernet Franc"
+  },
+  {
+    "id": 22,
+    "name": "Petit Verdot"
+  },
+  {
+    "id": 23,
+    "name": "Syrah"
+  },
+  {
+    "id": 24,
+    "name": "Grenache"
+  },
+  {
+    "id": 25,
+    "name": "Carignan"
+  },
+  {
+    "id": 26,
+    "name": "Cinsault"
+  },
+  {
+    "id": 27,
+    "name": "Mourvèdre"
+  },
+  {
+    "id": 28,
+    "name": "Cabernet Moravia"
   }
 ]

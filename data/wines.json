@@ -661,5 +661,325 @@
         "rating": 0
       }
     ]
+  },
+  {
+    "id": 42,
+    "winemaker_id": 16,
+    "region_id": 8,
+    "grape_ids": [ 15 ],
+    "name": "Crianza Blanco 2013",
+    "description": "166 Kč / 195 Kč, barrique",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-18",
+        "notes": "Na nose vanilka. V chuti tenčí ovoce, kyselinka, slušně zakomponované dřevo. Super hodnota!",
+        "rating": 89
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "winemaker_id": 17,
+    "region_id": 3,
+    "grape_ids": [ 6 ],
+    "name": "Volnay 1998",
+    "description": "1500 Kč, Průměrný ročník, směs hroznů z horších poloh.",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-19",
+        "notes": "Na nose terciální tóny, otevírají se do červeného ovoce. Zemité, střední tělo, střední persistence. Hezky nazrálá základní burgunda, začíná vystupovat do třísla.",
+        "rating": 87
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "winemaker_id": 18,
+    "region_id": 9,
+    "grape_ids": [ 16 ],
+    "name": "Svatovavřinecké 1997",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-19",
+        "notes": "Hodně čajové na nose i v chuti. Výrazně za zenitem, ale vzhledem ke slušné persistenci ještě ne zlomené.",
+        "rating": 85
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "winemaker_id": 19,
+    "region_id": 4,
+    "grape_ids": [ 17 ],
+    "name": "Barolo Spanna 1964",
+    "description": "Staré označení pro Nebbiolo mimo Barolo a Barbaresco, potenciál 2025+",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-19",
+        "notes": "Krásně nazrálé, uhlazené tříslo. Cihlová barva. Krásné terciální tóny na nose. Plné, persistence, struktura, nikam neutíká.",
+        "rating": 95
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "winemaker_id": 20,
+    "region_id": 10,
+    "grape_ids": [ 18, 19 ],
+    "name": "Carmignano Riserva 1975",
+    "description": "1200 Kč, Malá oblast v Chianti, průkopníci supertoskánských vín. Vynikající ročník. 80% SAN, 20% CS.",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-19",
+        "notes": "Na nose ovoce, až houbové tóny. Slušně nazrálé, drží na třísle a vysoké kyselině, ale chybí mu vyšší struktura.",
+        "rating": "89+"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "winemaker_id": 21,
+    "region_id": 11,
+    "grape_ids": [ 20, 19, 22, 21 ],
+    "name": "Château Dutruch Grand Poujeaux Moulis 1990",
+    "description": "Vynikající ročník (90 RP), potenciál 2020+",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-19",
+        "notes": "Mohutné, struktura, střední tělo. Na nose se otevírá nádherné červené ovoce (maliny).",
+        "rating": "90+"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "winemaker_id": 22,
+    "region_id": 12,
+    "grape_ids": [ 19 ],
+    "name": "Cabernet Sauvignon 'Hickenbotham' 1998",
+    "description": "Vynikající ročník (93 RP). Nejvyšší řada CS, 18m nové (americké?) sudy, staré vinice. Potenciál 2020",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-19",
+        "notes": "Na nose krásný černý rybíz, moruše. V chuti vyzrálé, ovocné, pikantní, peprné, se strukturou. Začíná se prosazovat tříslo.",
+        "rating": 92
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "winemaker_id": 23,
+    "region_id": 13,
+    "grape_ids": [ 23, 24, 25, 26, 27 ],
+    "name": "Faugeres 1993",
+    "description": "800 Kč, 300 m.n.m., potenciál 2020+",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-19",
+        "notes": "Na nose ovocné. Zprvu vystupuje alk., bez struktury, ale otevírá se do krásné struktury, těla, hezký dotek tříslovin.",
+        "rating": 91
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "winemaker_id": 24,
+    "region_id": 14,
+    "grape_ids": [ 28 ],
+    "name": "Cabernet Sekt 2014",
+    "description": "210 Kč, 9 měsíců kvašeno v lahvi",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-18",
+        "notes": "Na nose i v chuti krásně ovocné. Slušné perlení.",
+        "rating": 88
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "winemaker_id": 25,
+    "region_id": 15,
+    "grape_ids": [ 6 ],
+    "name": "Sancerre 2011 Terre de Maimbray 2011",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2015-10-18",
+        "notes": "Krásně zemité, nazrálé.",
+        "rating": 88
+      },
+      {
+        "id": 2,
+        "date": "2016-10-18",
+        "notes": "Bohužel už za vrcholem rozpadlé.",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "winemaker_id": 26,
+    "region_id": 14,
+    "grape_ids": [ 16 ],
+    "name": "Svatovavřinecké archivní 1989",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-10-19",
+        "notes": "Na nose terciální tóny, ale v chuti působí velmi mladě (1-2 roky). Nasládlé, slušně postavené. Starší víno s přídavkem mladé barvířky, podvod?",
+        "rating": 87
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "winemaker_id": 8,
+    "region_id": 2,
+    "grape_ids": [ 3 ],
+    "name": "Ürziger Würzgarten Kabinett 2015",
+    "description": "Spontánní kvašení, hrozny sbírané brzy. 300 Kč",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-??-??",
+        "notes": "TODO",
+        "rating": 87
+      }, {
+        "id": 2,
+        "date": "2016-11-16",
+        "notes": "V kuchi typická ovocnost kořenitost Ürziger Würzgarten. Postrádá silnější kyselinu, bez většího potenciálu.",
+        "rating": 89
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "winemaker_id": 27,
+    "region_id": 11,
+    "grape_ids": [ 19, 20 ],
+    "name": "Château du Bousquet 1982, Côtes de Bourg",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-11-16",
+        "notes": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "winemaker_id": 28,
+    "region_id": 11,
+    "grape_ids": [ 19, 20 ],
+    "name": "Château Canon 1982, Fronsac",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-11-16",
+        "notes": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "winemaker_id": 29,
+    "region_id": 11,
+    "grape_ids": [ 19, 20 ],
+    "name": "Château Gressier Grand Poujeaux 1982, Moulis",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-11-16",
+        "notes": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "winemaker_id": 30,
+    "region_id": 11,
+    "grape_ids": [ 19, 20 ],
+    "name": "Château la Croix de Gay 1982, Pomerol",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-11-16",
+        "notes": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "winemaker_id": 31,
+    "region_id": 11,
+    "grape_ids": [ 19, 20 ],
+    "name": "Château Lafitte Carcasset 1985, St. Estephe",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-11-16",
+        "notes": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "winemaker_id": 32,
+    "region_id": 11,
+    "grape_ids": [ 19, 20 ],
+    "name": "Château Lanessan 1986, Haut Medoc",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-11-16",
+        "notes": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "winemaker_id": 33,
+    "region_id": 11,
+    "grape_ids": [ 19, 20 ],
+    "name": "Château Mouton Baron Philippe 1986, Pauillac",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-11-16",
+        "notes": "",
+        "rating": 0
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "winemaker_id": 34,
+    "region_id": 11,
+    "grape_ids": [ 19, 20 ],
+    "name": "Ch. Branaire Ducru 1986, 4eme Cru Classe, St. Julien",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-11-16",
+        "notes": "",
+        "rating": 0
+      }
+    ]
   }
 ]

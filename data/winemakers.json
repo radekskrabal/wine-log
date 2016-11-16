@@ -78,5 +78,87 @@
     "name": "Cante Arini",
     "description": "30ha, 150 000 lahví, ale většina produkce jsou sudová vína",
     "url": "http://www.cantinearini.it/"
+  },
+  {
+    "id": 16,
+    "name": "Bodegas Navajas"
+  },
+  {
+    "id": 17,
+    "name": "Domaine Jean-Marc Boillot",
+    "description": "11 ha, v poslední době už docela známý vinař",
+    "url": "http://www.jeanmarc-boillot.com/"
+  },
+  {
+    "id": 18,
+    "name": "Víno Nitra"
+  },
+  {
+    "id": 19,
+    "name": "Fratelli Berteletti"
+  },
+  {
+    "id": 20,
+    "name": "Villa di Capezzana",
+    "description": "Založeno 804, dováží Chovan."
+  },
+  {
+    "id": 21,
+    "name": "Château Dutruch Grand Poujeaux",
+    "description": "28 ha, nic moc známého"
+  },
+  {
+    "id": 22,
+    "name": "Clarendon Hills",
+    "description": "Špičkové vinařství"
+  },
+  {
+    "id": 23,
+    "name": "Château des Estanilles",
+    "description": "35ha"
+  },
+  {
+    "id": 24,
+    "name": "Petr Marada"
+  },
+  {
+    "id": 25,
+    "name": "Pascal & Nicolas Reverdy"
+  },
+  {
+    "id": 26,
+    "name": "Vinařství u Kohoutka"
+  },
+  {
+    "id": 27,
+    "name": "Chateaux du Bousquet"
+  },
+  {
+    "id": 28,
+    "name": "Chateaux Chalon"
+  },
+  {
+    "id": 29,
+    "name": "Château Gressier Grand Poujeaux"
+  },
+  {
+    "id": 30,
+    "name": "Château la Croix de Gay"
+  },
+  {
+    "id": 31,
+    "name": "Château Lafitte Carcasset"
+  },
+  {
+    "id": 32,
+    "name": "Château Lanessan"
+  },
+  {
+    "id": 33,
+    "name": "Château Mouton Baron Philippe"
+  },
+  {
+    "id": 34,
+    "name": "Château Branaire Ducru"
   }
 ]

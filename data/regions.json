@@ -33,5 +33,45 @@
     "id": 7,
     "country_id": 3,
     "name": "Sicily"
+  },
+  {
+    "id": 8,
+    "country_id": 6,
+    "name": "Rioja"
+  },
+  {
+    "id": 9,
+    "country_id": 7,
+    "name": "Nitranská"
+  },
+  {
+    "id": 10,
+    "country_id": 3,
+    "name": "Tuscany"
+  },
+  {
+    "id": 11,
+    "country_id": 1,
+    "name": "Bordeaux"
+  },
+  {
+    "id": 12,
+    "country_id": 8,
+    "name": "McLaren Valley"
+  },
+  {
+    "id": 13,
+    "country_id": 1,
+    "name": "Languedoc"
+  },
+  {
+    "id": 14,
+    "country_id": 5,
+    "name": "Morava"
+  },
+  {
+    "id": 15,
+    "country_id": 1,
+    "name": "Loire"
   }
 ]
