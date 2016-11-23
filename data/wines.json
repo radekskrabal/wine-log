@@ -847,7 +847,7 @@
     "region_id": 2,
     "grape_ids": [ 3 ],
     "name": "Ürziger Würzgarten Kabinett 2015",
-    "description": "Spontánní kvašení, hrozny sbírané brzy. 300 Kč",
+    "description": "Spontánní kvašení, hrozny sbírané brzy, 8.5g kyseliny. 300 Kč",
     "tastings": [
       {
         "id": 1,
@@ -857,7 +857,7 @@
       }, {
         "id": 2,
         "date": "2016-11-16",
-        "notes": "V chuti typická ovocnost a kořenitost Ürziger Würzgarten. Postrádá výraznější oporu v podobě kyselinky, bez většího potenciálu.",
+        "notes": "V chuti typická ovocnost a kořenitost Ürziger Würzgarten na úrovni Spatlese. V dochuti ještě poměrně rozostřené.",
         "rating": 89
       }
     ]
