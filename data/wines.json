@@ -868,12 +868,13 @@
     "region_id": 11,
     "grape_ids": [ 19, 20 ],
     "name": "Château du Bousquet 1982, Côtes de Bourg",
+    "description": "Supermarketovka za 300,- Kč.",
     "tastings": [
       {
         "id": 1,
         "date": "2016-11-16",
-        "notes": "",
-        "rating": 0
+        "notes": "Na nose pěkně nazrálé s terciálními tóny. V chuti plnější, primárně zemité, střední persistence. Jednodušší struktura.",
+        "rating": "87++"
       }
     ]
   },
@@ -883,12 +884,13 @@
     "region_id": 11,
     "grape_ids": [ 19, 20 ],
     "name": "Château Canon 1982, Fronsac",
+    "description": "Supermarketovka za 300,- Kč.",
     "tastings": [
       {
         "id": 1,
         "date": "2016-11-16",
-        "notes": "",
-        "rating": 0
+        "notes": "Na nose živočišné, otevírá se do sušeného ovoce, marmelády z černého ovoce. V těle tenčí, zemité, střední persistence.",
+        "rating": 88
       }
     ]
   },
@@ -898,12 +900,13 @@
     "region_id": 11,
     "grape_ids": [ 19, 20 ],
     "name": "Château Gressier Grand Poujeaux 1982, Moulis",
+    "description": "50% CS, 50% MER, štěrkové podloží.",
     "tastings": [
       {
         "id": 1,
         "date": "2016-11-16",
-        "notes": "",
-        "rating": 0
+        "notes": "Na nose marmeláda z černého ovoce. Slušná struktura, vyšší viskozita, působí stále velmi mladě. Potenciál dalších 5-10 let.",
+        "rating": 91
       }
     ]
   },
@@ -913,12 +916,13 @@
     "region_id": 11,
     "grape_ids": [ 19, 20 ],
     "name": "Château la Croix de Gay 1982, Pomerol",
+    "description": "95% MER, 18m 70% nové sudy",
     "tastings": [
       {
         "id": 1,
         "date": "2016-11-16",
-        "notes": "",
-        "rating": 0
+        "notes": "Na nose z počátku terciální tóny. Tenčí, ale hezky nazrálý merlot.",
+        "rating": 88
       }
     ]
   },
@@ -928,11 +932,12 @@
     "region_id": 11,
     "grape_ids": [ 19, 20 ],
     "name": "Château Lafitte Carcasset 1985, St. Estephe",
+    "description": "70% CS, 25% MER, 5% CF. 14m 70% nové sudy.",
     "tastings": [
       {
         "id": 1,
         "date": "2016-11-16",
-        "notes": "",
+        "notes": "Mrtvola. Na nose ořechy, jablka. Naoxidované, ale úplně zlomené.",
         "rating": 0
       }
     ]
@@ -943,12 +948,13 @@
     "region_id": 11,
     "grape_ids": [ 19, 20 ],
     "name": "Château Lanessan 1986, Haut Medoc",
+    "description": "Stěrkové podloží, mladé 500,- Kč u Domaine R&W.",
     "tastings": [
       {
         "id": 1,
         "date": "2016-11-16",
-        "notes": "",
-        "rating": 0
+        "notes": "Na nose tmavá marmeláda, otevírá se do nádherného ovoce. Vyšší viskozita, lehké tříslo, pikantní, středně plné, strukturované, střední persistence.",
+        "rating": "90+"
       }
     ]
   },
@@ -958,12 +964,13 @@
     "region_id": 11,
     "grape_ids": [ 19, 20 ],
     "name": "Château Mouton Baron Philippe 1986, Pauillac",
+    "description": "52% CS, 26% MER, 20% CF, 2% PV",
     "tastings": [
       {
         "id": 1,
         "date": "2016-11-16",
-        "notes": "",
-        "rating": 0
+        "notes": "Na nose živočišné tóny. Elegantnější, střední tělo, dotek tříslovin. Slušná persistence, peprné, kyselinka. Působí mladě, potenciál 5-10 let.",
+        "rating": "90+"
       }
     ]
   },
@@ -973,12 +980,13 @@
     "region_id": 11,
     "grape_ids": [ 19, 20 ],
     "name": "Château Branaire Ducru 1986, 4eme Cru Classe, St. Julien",
+    "description": "70% CS, 22% MER, 4% CF, 4% PV",
     "tastings": [
       {
         "id": 1,
         "date": "2016-11-16",
-        "notes": "",
-        "rating": 0
+        "notes": "Na nose nádherně strukturované červené ovoce. Mladistvá barva, dotek tříslovin, slušná struktura. Krásné.",
+        "rating": "91+"
       }
     ]
   },
@@ -995,6 +1003,21 @@
         "date": "2016-11-06",
         "notes": "Na nose citrusová linka. V chuti už poměrně srovnaté, jednoduché, přímočaré, méně strukturované.",
         "rating": 88
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "winemaker_id": 35,
+    "region_id": 11,
+    "grape_ids": [ 19, 20 ],
+    "name": "Château Larrivet-Haut-Brion 1982, Pessac Leognan",
+    "tastings": [
+      {
+        "id": 1,
+        "date": "2016-11-16",
+        "notes": "Na nose terciální tóny. Krásně nazrálé, uhlazené, velká elegance. Na vrcholu.",
+        "rating": "91+"
       }
     ]
   }

@@ -143,15 +143,18 @@
   },
   {
     "id": 30,
-    "name": "Château la Croix de Gay"
+    "name": "Château la Croix de Gay",
+    "description": "7ha"
   },
   {
     "id": 31,
-    "name": "Château Lafitte Carcasset"
+    "name": "Château Lafitte Carcasset",
+    "description": "22ha"
   },
   {
     "id": 32,
-    "name": "Château Lanessan"
+    "name": "Château Lanessan",
+    "description": "32ha"
   },
   {
     "id": 33,
@@ -159,6 +162,11 @@
   },
   {
     "id": 34,
-    "name": "Château Branaire Ducru"
+    "name": "Château Branaire Ducru",
+    "description": "60ha"
+  },
+  {
+    "id": 35,
+    "name": "Château Larrivet-Haut-Brion"
   }
 ]
